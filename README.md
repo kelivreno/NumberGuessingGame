@@ -16,7 +16,7 @@ Practicing making functions, while loop, if-statements, and using the `random` l
 ```
 - It will continue to count the number of guesses and has max of 5 guesses per game, and compare until the user gets it right, otherwise a message of thank you and sharing what number it is will be displayed
 - It now has a `replay()` function!
-- The function will see if the user enters `Y/N`, if they chooses Y, the function `game()` will continue to play, otherwise another thank you will show up
+- The function will see if the user enters `Y/N`, if they chooses <i>Y</i>, the function `game()` will continue to play, otherwise another thank you will show up
 
 ## Opportunities to improve:
 - Add a foolproof with try/except
